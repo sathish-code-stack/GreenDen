@@ -1,4 +1,4 @@
-# 🌿 GreenDen
+# GreenDen
 
 GreenDen is a simple, friendly website for a plant shop. It shows off a range of natural and artificial plants, with a clean green look that works on phones, tablets, and computers.
 
